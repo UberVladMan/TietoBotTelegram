@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="210255d7-ca17-4885-bc4d-34a61fdf4e15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tikapebot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tikapebot/TikapeBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TikapeBot.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,10 +37,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tikapebot/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,20 +52,20 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="42" selection-start-column="42" selection-end-column="42" />
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tikapebot/TikapeBot.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TikapeBot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="250" column="30" lean-forward="true" selection-start-line="250" selection-start-column="30" selection-end-line="250" selection-end-column="30" />
+              <caret line="248" column="30" lean-forward="true" selection-start-line="248" selection-start-column="30" selection-end-line="248" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#12311#12312#0" expanded="true" />
-                <element signature="e#12430#12431#0" expanded="true" />
+                <element signature="e#12291#12292#0" expanded="true" />
+                <element signature="e#12410#12411#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,14 +123,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TietoBotTelegram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TikapeBot-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tikapebot" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -139,7 +133,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548435368206" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548436067510" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -158,11 +152,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tikapebot.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TietoBotTelegram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tikapebot.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548431052607</updated>
-      <workItem from="1548431057479" duration="3814000" />
+      <workItem from="1548431057479" duration="4533000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1548433063013</created>
@@ -209,11 +203,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548434579444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ok">
+      <created>1548435379039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548435379039</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3814000" />
+    <option name="totallyTimeSpent" value="4533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
@@ -272,24 +273,24 @@
         <state relative-caret-position="-1188" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tikapebot/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TikapeBot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="114">
+          <caret line="248" column="30" lean-forward="true" selection-start-line="248" selection-start-column="30" selection-end-line="248" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#12291#12292#0" expanded="true" />
+            <element signature="e#12410#12411#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tikapebot/TikapeBot.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="250" column="30" lean-forward="true" selection-start-line="250" selection-start-column="30" selection-end-line="250" selection-end-column="30" />
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#12311#12312#0" expanded="true" />
-            <element signature="e#12430#12431#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -297,7 +298,7 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
