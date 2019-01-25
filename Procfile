@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp build/staging:build/staging/* Main 
+worker: java -jar target/TietoBotTelegram.jar Main
