@@ -1,1 +1,1 @@
-worker:	sh target/src/main/java/tikapebot/Main.java
+worker:	java -cp target/src/main/java/Main.java
