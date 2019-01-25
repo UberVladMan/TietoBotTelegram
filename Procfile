@@ -1,1 +1,1 @@
-worker:	sh target/bin/* tietobot.Main
+worker:	sh target/src/main/java/tikapebot/Main.java
