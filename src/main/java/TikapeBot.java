@@ -257,11 +257,11 @@ public class TikapeBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "PrintManBot716";
+        return "Name";
     }
 
     @Override
     public String getBotToken() {
-        return "682004030:AAGJ6YLLZF5oJdIe6jUcfg6oY7N8Jf0Cmz0";
+        return "token";
     }
 }
